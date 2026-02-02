@@ -117,7 +117,7 @@ export function Contact() {
         {/* Footer */}
         <div className="text-center pt-8 border-t border-border">
           <p className="text-muted-foreground">
-            © 2026 Digital Solutions. Todos los derechos reservados.
+            © 2026 Web Core. Todos los derechos reservados.
           </p>
         </div>
       </div>
