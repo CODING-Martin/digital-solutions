@@ -17,7 +17,7 @@ export function Hero() {
           <span className="text-primary font-semibold">🚀 Desarrollo Web Profesional</span>
         </div>
         <h1 className="text-5xl md:text-7xl font-bold mb-6">
-          <span className="text-gradient">Digital Solutions</span>
+          <span className="text-gradient">WebCore</span>
         </h1>
         <p className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-3xl mx-auto">
           Creamos sitios web y sistemas que impulsan tu negocio al siguiente nivel

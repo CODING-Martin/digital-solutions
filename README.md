@@ -1,6 +1,6 @@
-# Digital Solutions
+# WebCore
 
-Sitio web profesional para Digital Solutions - Desarrollo web y sistemas a medida.
+Sitio web profesional para WebCore - Desarrollo web y sistemas a medida.
 
 ## Tecnologías
 

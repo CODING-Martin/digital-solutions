@@ -1,7 +1,7 @@
 export function Testimonials() {
   const testimonials = [
     {
-      text: "Digital Solutions nos ayudó a profesionalizar nuestra imagen digital. Excelente trabajo.",
+      text: "WebCore nos ayudó a profesionalizar nuestra imagen digital. Excelente trabajo.",
       author: "Juan Pérez",
       role: "Dueño de Comercio Local",
       rating: 5
