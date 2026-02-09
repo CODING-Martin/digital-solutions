@@ -1,6 +1,6 @@
-# WebCore/Stack Line 
+# WebCore/LineStack 
 
-Sitio web profesional WebCore/StackLine - Desarrollo web y sistemas a medida.
+Sitio web profesional WebCore/LineStack - Desarrollo web y sistemas a medida.
 
 ## Tecnologías
 
